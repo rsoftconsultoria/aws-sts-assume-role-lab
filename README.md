@@ -213,7 +213,20 @@ aws iam delete-role --role-name sts-lab-role
 **Rafael Sousa** - Cloud Architect & DevOps Engineer
 
 - LinkedIn: [linkedin.com/in/sousarafael](https://linkedin.com/in/sousarafael)
-- Empresa: [Sentinel Tecnologia](https://sentinel-agents.com.br)
+- Site: [RSoft Consultoria](https://rsoftconsultoria.github.io/rsoft-site/) - Cloud & DevOps
+- Plataforma: [Sentinel Tecnologia](https://sentinel-agents.com.br) - 18 Agentes IA para Cloud, DevOps e FinOps
+
+---
+
+### Mais Labs e Conteudo
+
+Acesse nossos canais para mais laboratorios, automacoes e conteudos sobre Cloud, DevOps e FinOps:
+
+| Canal | Link |
+|-------|------|
+| **RSoft Consultoria** | [rsoftconsultoria.github.io/rsoft-site](https://rsoftconsultoria.github.io/rsoft-site/) |
+| **Sentinel Agents** | [sentinel-agents.com.br](https://sentinel-agents.com.br) |
+| **GitHub RSoft** | [github.com/rsoftconsultoria](https://github.com/rsoftconsultoria) |
 
 ## Licenca
 
